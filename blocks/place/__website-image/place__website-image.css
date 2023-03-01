@@ -1,0 +1,8 @@
+.place__website-image {
+  width: 460px;
+  height: 460px;
+}
+
+.place__website-image img{
+  width: 100%;
+}
