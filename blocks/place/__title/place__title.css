@@ -6,5 +6,11 @@
   line-height: 76px;
   color: #FFFFFF;
   display: block;
-  width: 460px;
+  max-width: 460px;
 }
+
+/* @media screen and (min-width: 1024px) and (max-width: 1280px) {
+  .place__title {
+    width: 440px;
+  }
+} */

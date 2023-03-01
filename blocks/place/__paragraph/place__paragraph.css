@@ -6,7 +6,7 @@
   font-size: 18px;
   line-height: 163%;
   color: #FFFFFF;
-  width: 484px;
+  max-width: 484px;
 }
 
 .place__paragraph:last-of-type {
