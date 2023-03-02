@@ -7,10 +7,31 @@
   color: #FFFFFF;
   display: block;
   max-width: 460px;
+  padding-bottom: 48px;
 }
 
-/* @media screen and (min-width: 1024px) and (max-width: 1280px) {
+@media screen and (min-width: 1024px) and (max-width: 1279px) {
   .place__title {
-    width: 440px;
+    max-width: 440px;
   }
-} */
+} 
+ @media screen and (min-width: 768px) and (max-width: 1023px) {
+  .place__title {
+    max-width: 340px;
+    font-size: 42px;
+    line-height: 46px;
+  }
+} 
+ @media screen and (min-width: 320px) and (max-width: 767px) {
+  .place__title {
+    max-width: 288px;
+    font-size: 32px;
+    line-height: 35px;
+    padding-left: 16px;
+    padding-right: 16px;
+    margin-top: 50px;
+  }
+  .place__title-first {
+    margin-top: 0;
+  }
+}  
