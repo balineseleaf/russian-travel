@@ -1,17 +1,17 @@
 
-.place__block-links{
+.place-block-links{
   padding-bottom: 48px;
   align-self: end;
 }
 
 @media screen and (min-width: 768px) and (max-width: 1023px) {
-  .place__block-links {
+  .place-block-links {
     padding-bottom: 26px;
   }
 } 
 
 @media screen and (min-width: 320px) and (max-width: 767px) {
-  .place__block-links {
+  .place-block-links {
     padding-bottom: 32px;
   } 
 }  
