@@ -1,7 +1,7 @@
 @font-face {
   src: url(../vendor/fonts/transfonter.org-20230228-072708/Inter-Regular.woff) format('woff'),
     url(../vendor/fonts/transfonter.org-20230228-072708/Inter-Regular.woff2) format('woff2');
-  font-family: 'Inter-Regular';
+  font-family: 'Inter';
   font-weight: 400;
   font-style: normal;
 }
@@ -9,7 +9,7 @@
 @font-face {
   src: url(../vendor/fonts/transfonter.org-20230228-072708/Inter-Black.woff) format('woff'),
     url(../vendor/fonts/transfonter.org-20230228-072708/Inter-Black.woff2) format('woff2');
-  font-family: 'Inter-Black';
+  font-family: 'Inter';
   font-weight: 700;
   font-style: normal;
 }
@@ -17,7 +17,7 @@
 @font-face {
   src: url(../vendor/fonts/transfonter.org-20230228-072708/Inter-Bold.woff) format('woff'),
     url(../vendor/fonts/transfonter.org-20230228-072708/Inter-Bold.woff2) format('woff2');
-  font-family: 'Inter-Bold';
+  font-family: 'Inter';
   font-weight: 900;
   font-style: normal;
 }

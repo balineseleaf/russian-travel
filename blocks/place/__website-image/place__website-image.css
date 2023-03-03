@@ -1,16 +1,14 @@
 .place__website-image {
   max-width: 460px;
+  padding-bottom: 80px;
 }
 
 .place__website-image img{
   width: 100%;
 }
 
-.place__website-image-bottom {
-  padding-bottom: 80px;
-}
 
-.place__website-image-bottom:last-of-type {
+.place__website-image:last-of-type {
   padding-bottom: 92px;
 }
 
@@ -32,7 +30,7 @@
   .place__website-image {
     max-width: 100%;
   }
-  .place__website-image-bottom:last-of-type {
+  .place__website-image:last-of-type {
     padding-bottom: 0;
   }
 }  
