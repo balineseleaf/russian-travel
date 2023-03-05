@@ -1,8 +1,11 @@
 .footer__links{
+  margin: 0;
+  padding: 0;
   display: flex;
   flex-direction: row;
   column-gap: 18px;
   padding-inline-start: 0;
+  padding-bottom: 24px;
 }
 
 @media screen and (min-width: 320px) and (max-width: 767px) {

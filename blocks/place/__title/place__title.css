@@ -30,9 +30,6 @@
     line-height: 35px;
     padding-left: 16px;
     padding-right: 16px;
-    margin-top: 50px;
-  }
-  .place__title-first {
-    margin-top: 0;
+    padding-bottom: 32px;
   }
 }  
