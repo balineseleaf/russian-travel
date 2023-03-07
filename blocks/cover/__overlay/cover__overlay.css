@@ -1,5 +1,6 @@
 .cover__overlay {
   background-image: url(../../../images/cover-trains.png);
+  background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   display: flex;
